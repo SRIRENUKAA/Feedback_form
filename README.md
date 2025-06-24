@@ -1,9 +1,5 @@
 <h1 align="center">📝 Feedback Form Application</h1>
 
-<video autoplay loop muted playsinline width="400" style="float: right;">
-  <source src="https://github.com/SRIRENUKAA/assets/blob/main/coding-girl.mp4?raw=true" type="video/mp4">
-</video>
-
 ### 👋 Hi! I'm Sri Renuka  
 A passionate frontend developer from India 🇮🇳
 
